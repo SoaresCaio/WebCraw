@@ -1,2 +1,3 @@
 # WebCraw
-Project tutorial to learn JS.
+Project tutorial to learn Node.js
+
